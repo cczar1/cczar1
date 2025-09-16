@@ -43,15 +43,16 @@ I am passionate about applying cybersecurity knowledge in practical settings, wi
 
 **🔐 System Security & Compliance:** Perform Linux system hardening audits and NIST CSF 2.0 compliance checks using Lynis, with remediation and reporting.
 
-**🔎 SIEM & Threat Detection:** Build and test alerting and detection use-cases using Splunk, simulating incident triage and monitoring workflows.
-
 **⚡ Automation & Scripting:** Develop Python scripts for security tasks, including myPort Inspector, a custom port scanning tool.
+
+**🔎 SIEM & Threat Detection:** Build and test alerting and detection use-cases using Splunk, simulating incident triage and monitoring workflows.
 
 | Category                     | Project/Folder                                                                                                                                                               |
 | ---------------------------- | ------------------------------------------------------------------------------------------------ | 
-| System Security & Compliance | [Linux Server Security Assessment, Compliance & Remediation](/Linux-Server-Hardening-Compliance) | 
-| SIEM                         | [Splunk Detection & Alerting](/Splunk-Detection-Alerting)                                        |                                                      |
-| Automation                   | [Python Scripts & Automation](/Python-Scripts)                                                   | 
+| System Security & Compliance | [Linux Server Security Assessment & Remediation](https://github.com/cczar1/cybersecurity-portfolio/tree/main/Linux-Server-Hardening-Compliance) | 
+| Automation                   | [Python Scripts & Automation](https://github.com/cczar1/cybersecurity-portfolio/tree/main/Python-Scripts)                                                   | 
+| SIEM                         | [Splunk Detection & Alerting](https://github.com/cczar1/cybersecurity-portfolio/tree/main/Splunk-Detection-Alerting)                                        |                                                      |
+
 
 ---
 💬 Explore my projects: [Cybersecurity Portfolio](https://github.com/cczar1/cybersecurity-portfolio/tree/main)
