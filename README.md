@@ -4,7 +4,7 @@
 
 Experienced Contracts Administrator with a strong foundation in operational processes and compliance within secure, regulated environments. 
 
-Currently transitioning into cybersecurity, leveraging a versatile professional background and CompTIA Security+ certification. 
+Currently transitioning into Information Technology, leveraging a versatile professional background and CompTIA Security+ certification. 
 
 I am passionate about applying cybersecurity knowledge in practical settings, with a focus on building technical skills through hands-on projects in a VirtualBox home lab.
 
